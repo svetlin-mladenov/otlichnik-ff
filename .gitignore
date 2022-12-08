@@ -1,3 +1,4 @@
-otlichnik.egg-info/
-instance/
+/otlichnik.egg-info/
+/instance/
 __pycache__/
+/otlichnik_ff.egg-info/
